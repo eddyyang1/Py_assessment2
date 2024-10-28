@@ -11,5 +11,5 @@ def print_keys_with_even_values(my_dict):
             print(key)
 
 # Example dictionary
-# my_dict = {'a': 2, 'b': 3, 'c': 4}
-# print_keys_with_even_values(my_dict)  # Expected output: a, c
+my_dict = {'a': 2, 'b': 3, 'c': 4}
+print_keys_with_even_values(my_dict)
