@@ -12,4 +12,4 @@ def get_user_input():
         print(user_input)  # Print the user's input
 
 # Call the function to execute the input loop
-#get_user_input()
+get_user_input()
