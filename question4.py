@@ -13,5 +13,5 @@ def reverse_each_string(strings):
     return reversed_strings
 
 # Example list
-# strings = ["apple", "banana", "cherry"]
-# print(reverse_each_string(strings))  # Expected output: ['elppa', 'ananab', 'yrrehc']
+strings = ["apple", "banana", "cherry"]
+print(reverse_each_string(strings)) 
