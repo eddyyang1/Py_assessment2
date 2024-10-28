@@ -14,5 +14,5 @@ def remove_duplicates(my_list):
     return unique_list
 
 # Example list
-# my_list = [1, 2, 2, 3, 4, 4, 5]
-# print(remove_duplicates(my_list))  # Expected output: [1, 2, 3, 4, 5]
+my_list = [1, 2, 2, 3, 4, 4, 5]
+print(remove_duplicates(my_list))  # Expected output: [1, 2, 3, 4, 5]
