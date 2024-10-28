@@ -12,5 +12,5 @@ def sum_of_list(nums):
     return total
 
 # Example list
-# nums = [1, 2, 3, 4, 5]
-# print(sum_of_list(nums))  # Expected output: 15
+nums = [1, 2, 3, 4, 5]
+print(sum_of_list(nums))
