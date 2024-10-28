@@ -14,6 +14,6 @@ def keys_with_values_greater_than_n(my_dict, n):
     return result_keys
 
 # Example dictionary and integer
-# my_dict = {'a': 5, 'b': 12, 'c': 3}
-# n = 4
-# print(keys_with_values_greater_than_n(my_dict, n))  # Expected output: ['a', 'b']
+my_dict = {'a': 5, 'b': 12, 'c': 3}
+n = 4
+print(keys_with_values_greater_than_n(my_dict, n))  
