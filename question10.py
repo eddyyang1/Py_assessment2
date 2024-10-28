@@ -13,5 +13,5 @@ def tuples_to_dictionary(tuples_list):
     return result_dict
 
 # Example list of tuples
-# tuples_list = [("apple", 5), ("banana", 3), ("cherry", 7)]
-# print(tuples_to_dictionary(tuples_list))  # Expected output: {'apple': 5, 'banana': 3, 'cherry': 7}
+tuples_list = [("apple", 5), ("banana", 3), ("cherry", 7)]
+print(tuples_to_dictionary(tuples_list)) 
