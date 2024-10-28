@@ -17,6 +17,6 @@ def has_pair_with_sum(numbers, target_sum):
     return False  # No pairs found
 
 # Example list and target sum
-# numbers = [1, 2, 3, 9]
-# target_sum = 5
-# print(has_pair_with_sum(numbers, target_sum))  # Expected output: False
+numbers = [1, 2, 3, 9]
+target_sum = 5
+print(has_pair_with_sum(numbers, target_sum))  
